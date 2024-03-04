@@ -133,7 +133,7 @@ img {
     background:#3fb4b6;
 }
 .swiper-container-horizontal>.swiper-pagination {
-    bottom:30px;
+    bottom:0px;
 }
 .swiper-button-prev, .swiper-button-next {
     background-color: #082667;

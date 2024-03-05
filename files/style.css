@@ -126,7 +126,7 @@ img {
 .swiper-slide img {
     max-width:100%;
     border:5px solid rgba(255, 255, 255, .75);
-    border-radius: 20%;
+    border-radius: 6%;
     height: auto;
 }
 .swiper-pagination-bullet-active {

@@ -143,11 +143,12 @@ img {
     top: 76%;
 }
 .swiper-pagination-bullet {
-    width:10px;
+    width:16px;
     height:10px;
 }
 .swiper-container-horizontal>.swiper-pagination .swiper-pagination-bullet {
-    margin:0 4px;
+    margin:0 1px;
+    border-radius: 0;
 }
 
 /* 모시는글 */

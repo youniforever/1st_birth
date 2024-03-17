@@ -1,4 +1,4 @@
-for (i = 1; i <= 21; i ++) {
+for (i = 1; i <= 22; i ++) {
 	var fileName = '';
 	if (String(i).length == 1) {
 		fileName = '0' + i;
